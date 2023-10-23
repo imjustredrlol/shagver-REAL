@@ -1,0 +1,1 @@
+{"CurrentRegionIdx":3,"Regions":[{"$type":"StaticHttpRegionInfo, Assembly-CSharp","Name":"Shaggy-Region","PingServer":"127.0.0.1","Servers":[{"Name":"http-1","Ip":"http://127.0.0.1","Port":22023,"UseDtls":false}],"TranslateName":1003}]}
